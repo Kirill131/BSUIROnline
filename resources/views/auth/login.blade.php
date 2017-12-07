@@ -36,11 +36,12 @@
                                     </span>
                                 @endif
 								<input type="button" id="show_pass" value="show">
-								$(function(){
+								  (function(){
 									$('#show_pass').click(function(){
 									  $('#password').attr('type', 'text');
 									});
 								});
+								</input>
                             </div>
                         </div>
 

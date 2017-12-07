@@ -40,110 +40,104 @@
       </div>
     </section>
 
-    <!-- Portfolio Grid -->
-    <section class="bg-light" id="portfolio">
+    <!-- students Grid -->
+    <section class="bg-light" id="students">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Portfolio</h2>
+            <h2 class="section-heading">Students</h2>
             <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
           </div>
         </div>
         <div class="row">
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <i class="fa fa-plus fa-3x"></i>
+          <div class="col-md-4 col-sm-6 students-item">
+            <a class="students-link" data-toggle="modal" href="#studentsModal1">
+              <div class="students-hover">
+                <div class="students-hover-content">
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/01-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="img/students/101-thumbnail.jpg" alt="">
             </a>
-            <div class="portfolio-caption">
-              <h4>Threads</h4>
-              <p class="text-muted">Illustration</p>
+            <div class="students-caption">
+              <h4>FCAD</h4>
+              <p class="text-muted">Faculty of computer-added design</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <i class="fa fa-plus fa-3x"></i>
+          <div class="col-md-4 col-sm-6 students-item">
+            <a class="students-link" data-toggle="modal" href="#studentsModal2">
+              <div class="students-hover">
+                <div class="students-hover-content">
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/02-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="img/students/202-thumbnail.jpg" alt="">
             </a>
-            <div class="portfolio-caption">
-              <h4>Explore</h4>
-              <p class="text-muted">Graphic Design</p>
+            <div class="students-caption">
+              <h4>FCS&N</h4>
+              <p class="text-muted">Faculty of computer systems and networks</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <i class="fa fa-plus fa-3x"></i>
+          <div class="col-md-4 col-sm-6 students-item">
+            <a class="students-link" data-toggle="modal" href="#studentsModal3">
+              <div class="students-hover">
+                <div class="students-hover-content">
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/03-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="img/students/303-thumbnail.jpg" alt="">
             </a>
-            <div class="portfolio-caption">
-              <h4>Finish</h4>
-              <p class="text-muted">Identity</p>
+            <div class="students-caption">
+              <h4>FIC</h4>
+              <p class="text-muted">Faculty of information communication</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <i class="fa fa-plus fa-3x"></i>
+          <div class="col-md-4 col-sm-6 students-item">
+            <a class="students-link" data-toggle="modal" href="#studentsModal4">
+              <div class="students-hover">
+                <div class="students-hover-content">
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/04-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="img/students/404-thumbnail.jpg" alt="">
             </a>
-            <div class="portfolio-caption">
-              <h4>Lines</h4>
-              <p class="text-muted">Branding</p>
+            <div class="students-caption">
+              <h4>FITC</h4>
+              <p class="text-muted">Faculty of information technologies and control</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal5">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <i class="fa fa-plus fa-3x"></i>
+          <div class="col-md-4 col-sm-6 students-item">
+            <a class="students-link" data-toggle="modal" href="#studentsModal5">
+              <div class="students-hover">
+                <div class="students-hover-content">
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/05-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="img/students/505-thumbnail.jpg" alt="">
             </a>
-            <div class="portfolio-caption">
-              <h4>Southwest</h4>
-              <p class="text-muted">Website Design</p>
+            <div class="students-caption">
+              <h4>FRE</h4>
+              <p class="text-muted">Faculty of radioelectronics</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <i class="fa fa-plus fa-3x"></i>
+          <div class="col-md-4 col-sm-6 students-item">
+            <a class="students-link" data-toggle="modal" href="#studentsModal6">
+              <div class="students-hover">
+                <div class="students-hover-content">
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/06-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="img/students/606-thumbnail.jpg" alt="">
             </a>
-            <div class="portfolio-caption">
-              <h4>Window</h4>
-              <p class="text-muted">Photography</p>
+            <div class="students-caption">
+              <h4>FIE</h4>
+              <p class="text-muted">Faculty of ingeneering and economics</p>
             </div>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- About -->
-    <section id="about">
+    <!-- teachers -->
+    <section id="teachers">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading">About</h2>
+            <h2 class="section-heading">Teachers</h2>
             <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
           </div>
         </div>
@@ -152,7 +146,7 @@
             <ul class="timeline">
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/about/1.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/teachers/1.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -166,7 +160,7 @@
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/about/2.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/teachers/2.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -180,7 +174,7 @@
               </li>
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/teachers/3.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -194,7 +188,7 @@
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/about/4.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/teachers/4.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -225,7 +219,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading">Our Amazing Team</h2>
-            <h3 class="section-subheading text-muted">There are students from BSUIR.</h3>
+            <h3 class="section-subheading text-muted">We are students of BSUIR.</h3>
           </div>
         </div>
         <div class="row">
@@ -420,10 +414,10 @@
       </div>
     </footer>
 
-    <!-- Portfolio Modals -->
+    <!-- students Modals -->
 
     <!-- Modal 1 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="students-modal modal fade" id="studentsModal1" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="close-modal" data-dismiss="modal">
@@ -438,7 +432,7 @@
                   <!-- Project Details Go Here -->
                   <h2>Project Name</h2>
                   <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="img/portfolio/01-full.jpg" alt="">
+                  <img class="img-fluid d-block mx-auto" src="img/students/01-full.jpg" alt="">
                   <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
@@ -457,7 +451,7 @@
     </div>
 
     <!-- Modal 2 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="students-modal modal fade" id="studentsModal2" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="close-modal" data-dismiss="modal">
@@ -472,7 +466,7 @@
                   <!-- Project Details Go Here -->
                   <h2>Project Name</h2>
                   <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="img/portfolio/02-full.jpg" alt="">
+                  <img class="img-fluid d-block mx-auto" src="img/students/02-full.jpg" alt="">
                   <p>Use this area to describe your project.</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
@@ -491,7 +485,7 @@
     </div>
 
     <!-- Modal 3 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="students-modal modal fade" id="studentsModal3" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="close-modal" data-dismiss="modal">
@@ -506,7 +500,7 @@
                   <!-- Project Details Go Here -->
                   <h2>Project Name</h2>
                   <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="img/portfolio/03-full.jpg" alt="">
+                  <img class="img-fluid d-block mx-auto" src="img/students/03-full.jpg" alt="">
                   <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
@@ -525,7 +519,7 @@
     </div>
 
     <!-- Modal 4 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="students-modal modal fade" id="studentsModal4" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="close-modal" data-dismiss="modal">
@@ -540,7 +534,7 @@
                   <!-- Project Details Go Here -->
                   <h2>Project Name</h2>
                   <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="img/portfolio/04-full.jpg" alt="">
+                  <img class="img-fluid d-block mx-auto" src="img/students/04-full.jpg" alt="">
                   <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
@@ -559,7 +553,7 @@
     </div>
 
     <!-- Modal 5 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="students-modal modal fade" id="studentsModal5" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="close-modal" data-dismiss="modal">
@@ -574,7 +568,7 @@
                   <!-- Project Details Go Here -->
                   <h2>Project Name</h2>
                   <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="img/portfolio/05-full.jpg" alt="">
+                  <img class="img-fluid d-block mx-auto" src="img/students/05-full.jpg" alt="">
                   <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
@@ -593,7 +587,7 @@
     </div>
 
     <!-- Modal 6 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="students-modal modal fade" id="studentsModal6" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="close-modal" data-dismiss="modal">
@@ -608,7 +602,7 @@
                   <!-- Project Details Go Here -->
                   <h2>Project Name</h2>
                   <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="img/portfolio/06-full.jpg" alt="">
+                  <img class="img-fluid d-block mx-auto" src="img/students/06-full.jpg" alt="">
                   <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
